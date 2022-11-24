@@ -9,7 +9,7 @@ public class Ex4_3 {
 
 		if(input==0) {
 			System.out.println("0을 입력하였습니다.");	
-		} else { // input!=0�� ���
+		} else { 
 			System.out.println("0이 아닌 다른 수를 입력하였습니다.");
 		}
 	}
