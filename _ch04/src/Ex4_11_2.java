@@ -1,5 +1,5 @@
 
-public class Ex4_12 {
+public class Ex4_11_2 {
 
 	public static void main(String[] args) {
 		
